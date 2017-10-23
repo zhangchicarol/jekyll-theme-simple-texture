@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research|Application of Soundscape Design in  Historic Districts Conservation: Beisandao Street as an Example "
+title: "Research|Application of Soundscape Design in  Historic Districts Conservation "
 description: "A case study Research."
 categories: [Research]
 tags: [soundscape, cultural conservation, historical districts, perception]
@@ -13,7 +13,7 @@ redirect_from:
 * Kramdown table of contents
 {:toc .toc}
 
-# General Usage
+# Research|Application of Soundscape Design in  Historic Districts Conservation: Beisandao Street as an Example 
 
 This is a normal paragraph.
 
