@@ -2,7 +2,7 @@
 layout: post
 title: "Research|The situation of cycling in Harbin"
 description: "A quick demo post to some kramdown features."
-categories: [research]
+categories: [Research]
 tags: [urban design, cycling]
 redirect_from:
   - /2017/05/25/
