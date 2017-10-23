@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Quick kramdown demo"
-description: "A quick demo post to some kramdown features."
-categories: [demo]
-tags: [demo, jekyll]
+title: "Research|Application of Soundscape Design in  Historic Districts Conservation: Beisandao Street as an Example "
+description: "A case study Research."
+categories: [Research]
+tags: [soundscape, cultural conservation, historical districts, perception]
 redirect_from:
-  - /2017/05/25/
+  - /2017/02/21/
 ---
 
 > This is [kramdown][kramdown] formatting test page for [Simple Texture][Simple Texture] theme.
