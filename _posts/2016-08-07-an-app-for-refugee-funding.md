@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "A quick demo of Simple Texture theme's code highlighting features"
-description: "A quick demo of Simple Texture theme's code highlighting features"
-categories: [demo]
-tags: [demo, jekyll]
+title: "Research|An app for refugee funding through fintect"
+description: "An app for refugee funding through fintect"
+categories: [Research]
+tags: [refugee, NGO, fintect]
 redirect_from:
   - /2017/05/27/
 ---
