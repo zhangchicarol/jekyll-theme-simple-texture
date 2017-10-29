@@ -25,7 +25,7 @@ url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Zhang Chi Carol
 description: "A researcher and designer."
-keywords: 'research,design'
+keywords: 'research, design'
 author:
   name:
   job_title:
@@ -39,7 +39,7 @@ author:
     - name: instagram
       url:
     - name: linkedin
-      url:
+      url: https://www.linkedin.com/in/持-张-374b76110/
     - name: stackoverflow
       url:
     - name: twitter
