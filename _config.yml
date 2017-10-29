@@ -24,13 +24,13 @@ sass:
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Zhang Chi Carol
-description: "A researcher and designer."
+description: "A Researcher & Designer"
 keywords: 'research, design'
 author:
-  name:
-  job_title:
-  location:
-  email:
+  name: Zhang Chi Carol
+  job_title: Student
+  location: Harbin
+  email: zhangchicarol@outlook.com
   social_links:
     - name: facebook
       url:
@@ -48,7 +48,7 @@ author:
       url:
 home:
   section1: <h1>Zhang Chi Carol</h1>
-  section2: <h2>A researcher and designer</h2>
+  section2: <h2>A Researcher & Designer</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/zhangchicarol/zhangchicarol.github.io" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
