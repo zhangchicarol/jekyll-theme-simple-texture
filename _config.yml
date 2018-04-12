@@ -45,11 +45,7 @@ blog:
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
   footer_content: A trial explanation of serendipity <a href="http://zhangchicarol.com/"></a> .
 
-disqus:
-  shortname: # e.g. yizeng
-  public_key: # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
-google_analytics: # e.g. 'UA-42456515-5'
-addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
+
 
 paths:
   home: /
