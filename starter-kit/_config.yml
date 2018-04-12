@@ -32,25 +32,11 @@ author:
   job_title:
   location:
   email:
-  social_links:
-    - name: facebook
-      url:
-    - name: github
-      url: https://github.com/zhangchicarol/zhangchicarol.github.io
-    - name: instagram
-      url:
-    - name: linkedin
-      url:
-    - name: stackoverflow
-      url:
-    - name: twitter
-      url: 
-    - name: vk
-      url:
+
 home:
   section1: <h2>Serendipity</h2>
   section2: <h2>Zhang Chi's Portfolio</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/zhangchicarol/zhangchicarol.github.io" title="View on GitHub"></a></div>
+
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
