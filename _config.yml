@@ -32,20 +32,10 @@ author:
   location: Harbin
   email: zhangchicaol@outlook.com
   social_links:
-    - name: facebook
-      url:
     - name: github
       url: https://github.com/zhangchicarol/zhangchicarol.github.io
-    - name: instagram
-      url:
     - name: linkedin
       url: https://www.linkedin.com/in/zhangchicarol/
-    - name: stackoverflow
-      url:
-    - name: twitter
-      url: 
-    - name: vk
-      url:
 home:
   section1: <h1>Serendipity</h1>
   section2: <h2>Zhang Chi's Portfolio</h2>
