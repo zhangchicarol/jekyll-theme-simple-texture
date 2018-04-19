@@ -15,11 +15,11 @@
 
 <body>
     <ul id="menu">
+        <li data-menuanchor="Title"><a href="#title">Title</a></li>
         <li data-menuanchor="bio"><a href="#bio">Biography</a></li>
-        <li data-menuanchor="social"><a href="blog">Social Links</a></li>
     </ul>
 
-    <div id="section0" class="section" data-name="bio">
+    <div id="section0" class="section" data-name="title">
 
         {% include common/notices.html %}
 
@@ -28,7 +28,7 @@
             {% if site.home.section2 %}{{ site.home.section2 }}{% endif %}
             {% if site.home.section3 %}{{ site.home.section3 }}{% endif %}
         </div>
-        <a class="btn-continue animated bounce" title="{{ site.data.i18n[site.lang].more }}" href="blog"></a>
+        <a class="btn-continue animated bounce" title="{{ site.data.i18n[site.lang].more }}" href="bio"></a>
     </div>
 
 
